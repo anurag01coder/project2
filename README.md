@@ -1,4 +1,4 @@
 # New Project
 
-This project is created from local system
-created by Anurag Srivastav
+This project is created from local system. 
+Created by Anurag Srivastav
